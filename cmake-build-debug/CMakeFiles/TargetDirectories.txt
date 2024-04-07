@@ -1,0 +1,3 @@
+C:/C_dev/AlgoritmiGenetici/cmake-build-debug/CMakeFiles/AlgoritmiGenetici.dir
+C:/C_dev/AlgoritmiGenetici/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C_dev/AlgoritmiGenetici/cmake-build-debug/CMakeFiles/rebuild_cache.dir
